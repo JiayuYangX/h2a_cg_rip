@@ -1,0 +1,17 @@
+cd E:\SteamLibrary\steamapps\common\Halo The Master Chief Collection\halo2\prebuild\video
+BinkConv Ep_033_Day_at_the_Beach.bk2 D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_033_Day_at_the_Beach\whisper\Ep_033_Day_at_the_Beach.en.wav  /o /v /n3
+BinkConv Ep_033_Day_at_the_Beach.bk2 D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_033_Day_at_the_Beach\whisper\Ep_033_Day_at_the_Beach.zh.wav  /o /v /n11
+BinkConv Ep_033_Day_at_the_Beach.bk2 D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_033_Day_at_the_Beach\whisper\Ep_033_Day_at_the_Beach.fr.wav  /o /v /n14
+BinkConv Ep_033_Day_at_the_Beach.bk2 D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_033_Day_at_the_Beach\whisper\Ep_033_Day_at_the_Beach.de.wav  /o /v /n17
+BinkConv Ep_033_Day_at_the_Beach.bk2 D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_033_Day_at_the_Beach\whisper\Ep_033_Day_at_the_Beach.it.wav  /o /v /n20
+BinkConv Ep_033_Day_at_the_Beach.bk2 D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_033_Day_at_the_Beach\whisper\Ep_033_Day_at_the_Beach.ja.wav  /o /v /n23
+BinkConv Ep_033_Day_at_the_Beach.bk2 D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_033_Day_at_the_Beach\whisper\Ep_033_Day_at_the_Beach.ko.wav  /o /v /n26
+BinkConv Ep_033_Day_at_the_Beach.bk2 D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_033_Day_at_the_Beach\whisper\Ep_033_Day_at_the_Beach.es.wav  /o /v /n29
+BinkConv Ep_035_Bookend_Outro.bk2    D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_035_Bookend_Outro\whisper\Ep_035_Bookend_Outro.en.wav        /o /v /n3
+BinkConv Ep_035_Bookend_Outro.bk2    D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_035_Bookend_Outro\whisper\Ep_035_Bookend_Outro.zh.wav        /o /v /n11
+BinkConv Ep_035_Bookend_Outro.bk2    D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_035_Bookend_Outro\whisper\Ep_035_Bookend_Outro.fr.wav        /o /v /n14
+BinkConv Ep_035_Bookend_Outro.bk2    D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_035_Bookend_Outro\whisper\Ep_035_Bookend_Outro.de.wav        /o /v /n17
+BinkConv Ep_035_Bookend_Outro.bk2    D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_035_Bookend_Outro\whisper\Ep_035_Bookend_Outro.it.wav        /o /v /n20
+BinkConv Ep_035_Bookend_Outro.bk2    D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_035_Bookend_Outro\whisper\Ep_035_Bookend_Outro.ja.wav        /o /v /n23
+BinkConv Ep_035_Bookend_Outro.bk2    D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_035_Bookend_Outro\whisper\Ep_035_Bookend_Outro.ko.wav        /o /v /n26
+BinkConv Ep_035_Bookend_Outro.bk2    D:\JiaYu\Desktop\h2a_cg_rip\sub_fix\Ep_035_Bookend_Outro\whisper\Ep_035_Bookend_Outro.es.wav        /o /v /n29

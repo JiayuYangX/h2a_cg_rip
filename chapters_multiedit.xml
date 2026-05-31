@@ -1,0 +1,2498 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Chapters>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Easy</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All - The Heretic</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too - Outskirts</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:10:50.497000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:11:55.414000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm - The Arbiter</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:25:22.711000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:27:47.628000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers - Deta Halo</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence - Sacred Icon</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:44:34.220000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:49:10.850000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:03:08.738000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:49.250000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>32. Post Credits Teaser</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Normal</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All - The Heretic</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too - Outskirts</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:55.414000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:12:59.841000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm - The Arbiter</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:27:47.628000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:30:12.545000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers - Deta Halo</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence - Sacred Icon</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:44:34.220000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:49:10.850000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:03:08.738000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:49.250000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>32. Post Credits Teaser</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Heroic</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All - The Heretic</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too - Outskirts</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:59.841000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:14:06.080000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm - The Arbiter</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:30:12.545000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:32:37.463000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers - Deta Halo</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence - Sacred Icon</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:44:34.220000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:49:10.850000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:03:08.738000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:49.250000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>32. Post Credits Teaser</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Legendary</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All - The Heretic</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too - Outskirts</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:14:06.080000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:15:12.918000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm - The Arbiter</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:32:37.463000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:02.380000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers - Deta Halo</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence - Sacred Icon</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:49:10.850000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:53:47.479000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:03:08.738000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:49.250000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>32. Post Credits Teaser</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Easy (with Halo 5 Bookends)</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>01:07:02.678000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:08:36.076000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Halo 5 Bookend Intro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All - The Heretic</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too - Outskirts</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:10:50.497000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:11:55.414000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm - The Arbiter</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:25:22.711000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:27:47.628000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers - Deta Halo</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence - Sacred Icon</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:44:34.220000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:49:10.850000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:08:36.076000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:09:25.590000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Halo 5 Bookend Outro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Normal (with Halo 5 Bookends)</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>01:07:02.678000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:08:36.076000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Halo 5 Bookend Intro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All - The Heretic</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too - Outskirts</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:55.414000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:12:59.841000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm - The Arbiter</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:27:47.628000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:30:12.545000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers - Deta Halo</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence - Sacred Icon</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:44:34.220000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:49:10.850000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:08:36.076000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:09:25.590000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Halo 5 Bookend Outro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Heroic (with Halo 5 Bookends)</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>01:07:02.678000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:08:36.076000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Halo 5 Bookend Intro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All - The Heretic</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too - Outskirts</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:59.841000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:14:06.080000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm - The Arbiter</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:30:12.545000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:32:37.463000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers - Deta Halo</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence - Sacred Icon</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:44:34.220000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:49:10.850000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:08:36.076000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:09:25.590000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Halo 5 Bookend Outro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Legendary (with Halo 5 Bookends)</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>01:07:02.678000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:08:36.076000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Halo 5 Bookend Intro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All - The Heretic</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender - Cario Station</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too - Outskirts</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:14:06.080000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:15:12.918000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment - Metropolis</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm - The Arbiter</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification - The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:32:37.463000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:02.380000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers - Deta Halo</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle - Regret</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence - Sacred Icon</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling - Quarantine Zone</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:49:10.850000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:53:47.479000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov - Gravemind</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club - Uprising</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling - High Charity</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale - Great Journey</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:08:36.076000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:09:25.590000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Halo 5 Bookend Outro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Day at the Beach</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>01:03:49.250000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:07:02.678000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Day at the Beach</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionDisplay>
+      <EditionString>Full Episodes</EditionString>
+      <EditionLanguageIETF>en</EditionLanguageIETF>
+    </EditionDisplay>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:01.120000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>01. One Size Fits All</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:01.120000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:43.862000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>02. Home Field Advantage</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:43.862000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:37.579000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>03. Return to Sender</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:37.579000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:50.497000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>04. They'll Regret That Too</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:10:50.497000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:11:55.414000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating (Easy)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:55.414000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:12:59.841000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating (Normal)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:59.841000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:14:06.080000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating (Heroic)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:14:06.080000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:15:12.918000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>05. Ladies Like Armor Plating (Legendary)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:12.918000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:16:34.753000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>06. Field Experiment</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:34.753000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:12.310000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>07. A Whisper in the Storm</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:12.310000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:35.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>08. Juggernaut</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:35.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:03.489000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>09. Hey Watch This</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:03.489000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:26.593000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>10. Hot Pursuit</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.593000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:45.495000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>11. Dead or Alive</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:45.495000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:24:53.569000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>12. The Oracle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:53.569000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:22.711000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>13. Edification</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:25:22.711000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:27:47.628000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers (Easy)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:27:47.628000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:30:12.545000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers (Normal)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:30:12.545000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:32:37.463000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers (Heroic)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:32:37.463000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:02.380000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>14. Helljumpers (Legendary)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:02.380000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:35:55.521000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>15. Testament</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:35:55.521000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:18.903000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>16. One Way Ticket</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:18.903000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:07.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>17. Sorry Were You in the Middle</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:37:07.457000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:40:49.730000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>18. Uncomfortable Silence</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:40:49.730000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:41:23.842000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>19. Objects in the Mirror</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:41:23.842000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:42:24.151000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>20. Shooting Gallery</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:42:24.151000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:34.220000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>21. Familiar Feeling</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:44:34.220000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:49:10.850000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:49:10.850000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:53:47.479000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>22. Inside Job (Legendary)</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:53:47.479000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:54:50.306000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>23. Hopes and Dreams of the Cov</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:54:50.306000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:55:16.291000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>24. So That's How It Is</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:55:16.291000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:56:10.926000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>25. Fight Club</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:56:10.926000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:57:31.565000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>26. Cross Purposes</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:57:31.565000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:14.125000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>27. Once Again with Feeling</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:14.125000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:58:40.642000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>28. Your Ass My Hoof</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:58:40.642000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:59:05.517000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>29. Backseat Driver</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:59:05.517000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:01:10.103000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>30. Delusions of Grandeur</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:01:10.103000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:08.738000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>31. Finale</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:03:08.738000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:03:49.250000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>32. Post Credits Teaser</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:03:49.250000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:07:02.678000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>33. Day at the Beach</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:07:02.678000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:08:36.076000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>34. Bookend Intro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>01:08:36.076000000</ChapterTimeStart>
+      <ChapterTimeEnd>01:09:25.590000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>35. Bookend Outro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

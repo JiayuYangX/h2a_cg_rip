@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:03,190
+Arbiter, nous approchons de la cible.
+
+2
+00:00:03,890 --> 00:00:04,750
+Préparez-vous.
+
+3
+00:00:09,600 --> 00:00:12,220
+Qui est-il pour vous, Spartan Locke ?
+
+4
+00:00:12,220 --> 00:00:14,420
+Je ne comprends pas votre question.
+
+5
+00:00:14,980 --> 00:00:17,060
+1-1-7, le Major.
+
+6
+00:00:17,900 --> 00:00:21,240
+Si ce n'est pas votre ami, c'est votre ennemi ?
+
+7
+00:00:22,220 --> 00:00:25,300
+Il a déserté, et l'UNSC veut le récupérer.
+
+8
+00:00:25,760 --> 00:00:27,400
+Je me charge de le ramener.
+
+9
+00:00:29,320 --> 00:00:32,100
+J'admire votre sens du devoir, Spartan.
+
+10
+00:00:33,960 --> 00:00:37,400
+Mais s'il a tout quitté, c'est qu'il a ses raisons.
+
+11
+00:00:37,920 --> 00:00:41,520
+J'en suis persuadé, Arbiter. Et j'ai bien l'intention de lui demander.
+

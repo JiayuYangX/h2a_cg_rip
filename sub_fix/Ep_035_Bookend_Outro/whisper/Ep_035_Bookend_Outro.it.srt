@@ -1,0 +1,36 @@
+1
+00:00:00,350 --> 00:00:03,250
+Arbiter, il bersaglio è vicino.
+
+2
+00:00:03,830 --> 00:00:04,970
+Prepararsi all'azione.
+
+3
+00:00:09,440 --> 00:00:11,780
+Tu come lo chiami Spartanlock?
+
+4
+00:00:12,620 --> 00:00:14,440
+Non capisco la domanda.
+
+5
+00:00:15,660 --> 00:00:21,100
+117, Master Chief. Non è tuo alleato, è tuo nemico.
+
+6
+00:00:22,480 --> 00:00:27,380
+Risulta disperso e il CST lo sta cercando. Lo riporterò a casa.
+
+7
+00:00:29,420 --> 00:00:31,740
+Ammiro il tuo senso del dovere, Spartan.
+
+8
+00:00:33,740 --> 00:00:37,400
+Ma se ha scelto di andarsene, avrà le sue ragioni?
+
+9
+00:00:37,720 --> 00:00:41,520
+Ne sono certo, Arbiter. E intendo scoprire quali siano.
+

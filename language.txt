@@ -1,0 +1,22 @@
+语音
+en  3
+cht 11
+fr  14
+de  17
+it  20
+jpn 23
+kor 26
+sp  29
+
+字幕
+en
+chs
+zh
+fr
+de
+it
+ja
+ko
+es
+es_es
+pt_br

@@ -1,0 +1,36 @@
+1
+00:00:00,350 --> 00:00:03,310
+Inquisidor, ¿estamos cerca del blanco?
+
+2
+00:00:03,830 --> 00:00:05,090
+Preparados para actuar.
+
+3
+00:00:09,600 --> 00:00:12,060
+¿Qué es para ti, Spartan Locke?
+
+4
+00:00:12,760 --> 00:00:14,300
+No entiendo la pregunta.
+
+5
+00:00:15,260 --> 00:00:21,400
+117, el Jefe Maestro. ¿No es tu amigo, o es tu enemigo?
+
+6
+00:00:22,760 --> 00:00:27,200
+Deserto y la UNSC quiere que regrese. Voy a traerlo a casa.
+
+7
+00:00:29,600 --> 00:00:32,320
+Admiro tu sentido del deber, Spartan.
+
+8
+00:00:33,620 --> 00:00:37,280
+Pero si abandonó el Revil, ¿será por algo?
+
+9
+00:00:37,820 --> 00:00:41,460
+No lo dudo, Inquisidor. Pero necesito saber por qué.
+
