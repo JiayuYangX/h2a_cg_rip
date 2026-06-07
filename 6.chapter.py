@@ -1,5 +1,10 @@
+import configparser
+import os
 import xml.etree.ElementTree as ET
 import subprocess
+
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.ini'))
 
 
 chapters = [
@@ -106,9 +111,9 @@ def generate_edition(index, title, sign, default=False):
         ET.SubElement(disp, 'ChapLanguageIETF').text = 'en'
     return edition
 
-input_dir = 'D:\\Jiayu\\Videos'
-work_dir = 'D:\\Jiayu\\Desktop\\h2a_cg_rip'
-file_name = 'Halo.2.Anniversary.Cinematics.mkv'
+input_dir = config['paths']['export_dir']
+work_dir = os.path.dirname(os.path.abspath(__file__))
+file_name = config['paths']['export_name'] + '.mkv'
 input_xml = "chapters.xml"
 output_xml = "chapters_multiedit.xml"
 

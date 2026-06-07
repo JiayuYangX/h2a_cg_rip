@@ -1,5 +1,9 @@
+import configparser
 import os
 import subprocess
+
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.ini'))
 
 ep = [
     'Ep001_OneSizeFitsAll',
@@ -69,10 +73,10 @@ lang_sub = {
     'pt_br': ['pt', 'Português']
 }
 
-dir = 'F:\\Videos\\h2a_cg\\'
-# sub_dir = 'E:\\SteamLibrary\\steamapps\\common\\Halo The Master Chief Collection\\halo2\\prebuild\\subtitles'
-sub_dir = 'F:\\Videos\\h2a_cg\\subtitles'
-fix_dir = 'D:\\JiaYu\\Desktop\\h2a_cg_rip\\sub_fix'
+dir = config['paths']['intermediate_dir'] + '\\'
+sub_dir = config.get('paths', 'subtitle_dir',
+    fallback=config['paths']['game_dir'] + '\\subtitles')
+fix_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'sub_fix')
 
 blank_list = [
     'Ep_010_Hot_Pursuit',
@@ -105,4 +109,4 @@ for line in cmd:
     f.write(line + '\n')
 f.close()
 
-# subprocess.run('mix2.bat')
+subprocess.run('mix2.bat')

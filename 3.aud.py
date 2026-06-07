@@ -1,4 +1,9 @@
+import configparser
+import os
 import subprocess
+
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.ini'))
 
 ep = [
     'Ep001_OneSizeFitsAll',
@@ -55,8 +60,8 @@ lang = {
     "sp": 29
 }
 
-input_dir = 'E:\\SteamLibrary\\steamapps\\common\\Halo The Master Chief Collection\\halo2\\prebuild\\video'
-output_dir = 'F:\\Videos\\h2a_cg'
+input_dir = config['paths']['game_dir'] + '\\video'
+output_dir = config['paths']['intermediate_dir']
 bitrate = "256k"
 
 cmd = [
@@ -78,4 +83,4 @@ for line in cmd:
     f.write(line + '\n')
 f.close()
 
-# subprocess.run('aud.bat')
+subprocess.run('aud.bat')

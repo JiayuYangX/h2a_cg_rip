@@ -1,4 +1,9 @@
+import configparser
+import os
 import subprocess
+
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.ini'))
 
 ep = [
     'Ep001_OneSizeFitsAll',
@@ -45,9 +50,9 @@ ep = [
     'Ep_035_Bookend_Outro'
 ]
 
-input_dir = 'F:\\Videos\\h2a_cg'
-output_dir = 'D:\\Jiayu\\Videos'
-output = 'Halo.2.Anniversary.Cinematics'
+input_dir = config['paths']['intermediate_dir']
+output_dir = config['paths']['export_dir']
+output = config['paths']['export_name']
 
 cmd = [
     'chcp 65001',

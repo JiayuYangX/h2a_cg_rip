@@ -1,5 +1,9 @@
+import configparser
 import os
 import subprocess
+
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.ini'))
 
 ep = [
     'Ep001_OneSizeFitsAll',
@@ -69,9 +73,9 @@ lang_sub = {
     'pt_br': ['por', 'Português']
 }
 
-dir = 'F:\\Videos\\h2a_cg'
-# sub_dir = 'E:\\SteamLibrary\\steamapps\\common\\Halo The Master Chief Collection\\halo2\\prebuild\\subtitles'
-sub_dir = 'F:\\Videos\\h2a_cg\\subtitles'
+dir = config['paths']['intermediate_dir']
+sub_dir = config.get('paths', 'subtitle_dir',
+    fallback=config['paths']['game_dir'] + '\\subtitles')
 offset = -2
 
 cmd = [

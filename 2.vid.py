@@ -1,4 +1,9 @@
+import configparser
+import os
 import subprocess
+
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.ini'))
 
 ep = [
     'Ep001_OneSizeFitsAll',
@@ -45,7 +50,7 @@ ep = [
     'Ep_035_Bookend_Outro'
 ]
 
-dir = 'F:\\Videos\\h2a_cg'
+dir = config['paths']['intermediate_dir']
 crop = '1920:816:0:132'
 h264_metadata = [
     'video_full_range_flag=0',
@@ -82,4 +87,4 @@ for line in cmd:
     f.write(line + '\n')
 f.close()
 
-# subprocess.run('vid.bat')
+subprocess.run('vid.bat')
