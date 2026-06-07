@@ -117,7 +117,8 @@ file_name = config['paths']['export_name'] + '.mkv'
 input_xml = "chapters.xml"
 output_xml = "chapters_multiedit.xml"
 
-subprocess.run(['mkvextract', f'{input_dir}\\{file_name}', 'chapters', f'{work_dir}\\{input_xml}'])
+# 这一句可以在第一次导出时开启，之后一定要注释掉，因为章节信息已经被修改过了，再次提取会覆盖之前的修改
+# subprocess.run(['mkvextract', f'{input_dir}\\{file_name}', 'chapters', f'{work_dir}\\{input_xml}'])
 
 total_duration = format_ts(parse_ts(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
                                        '-of', 'default=noprint_wrappers=1:nokey=1', '-sexagesimal', f'{input_dir}\\{file_name}'],
