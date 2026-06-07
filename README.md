@@ -2,6 +2,13 @@
 
 本仓库存储的是个人用于《光环2：周年版》CG 导出的相关脚本。导出的 CG 经过修正优化和重新编排。
 
+导出的 CG 下载地址如下：
+
+通过网盘分享的文件：Halo.2.Anniversary.Cinematics.mkv
+链接: https://pan.baidu.com/s/1NvWXRHolRUOrxCl5_DgDoA?pwd=6223 提取码: 6223
+
+如果想自行导出，可参考以下流程。
+
 ## 特色
 
 本工作流程致力于导出游戏 CG 文件中的所有信息，所有语言都被囊括进来，具体如下：
@@ -43,5 +50,5 @@
 6. 执行 `3.vid.py`，用 FFmpeg 将 Bink 文件中的音频轨混合为多语言的双声道音频
 7. 执行 `4.mix2.py`，用 MKVToolNix 里的 mkvmerge 工具将每一段 CG 的视频轨、音频轨、字幕轨合并为 MKV 视频，添加语言信息（`4.mix1.py` 用的是 FFmpeg，但和后面的工作流程不兼容）
 8. 执行 `5.merge.py`，用 mkvmerge 将多段 MKV 视频合并为一个单一的 MKV 视频，添加章节信息
-9. 执行 `6.chapter.py`，用 MKVToolNix 里的 mkvextract 和 mkvpropredict 导出、读取并修改原视频的章节和版本信息
+9. 执行 `6.chapter.py`，用 MKVToolNix 里的 mkvextract 和 mkvpropredict 导出、读取并修改原视频章节和版本信息
 
